@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+}
+
+.list-item {
+  display: flex;
+}
+
+.list-item-subtree {
+  margin-left: 15px;
+}
